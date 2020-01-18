@@ -1,5 +1,5 @@
 { "$schema": "vscode://schemas/color-theme",
-  "name": "Alabaster",
+  "name": "AlabasterKeywords",
   "tokenColors": [
     { "name": "Comments",
 			"scope": [
